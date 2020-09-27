@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w0hYOJ/r9H/NMiMkFTLkYKGjpp4kHsQBOeHRg/k7tUYHHrKbdEyx+VwfSTHwGXSu+JX7ZjdCuML6emKQSZFTrw==",
+  "dgSpecHash": "tLQebPOrYDhXtAYOnUwnj8joAenAE+BIzIBDOmFT0dbEWtaqdzMOYgixZ805KDg52gd+tnk5jYZ3AmXcFy0sGA==",
   "success": true,
   "projectFilePath": "/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/MySimpleFunc1.csproj",
   "expectedPackageFiles": [

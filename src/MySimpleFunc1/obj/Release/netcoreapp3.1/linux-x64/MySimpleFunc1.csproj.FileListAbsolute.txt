@@ -1,0 +1,12 @@
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.deps.json
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.runtimeconfig.json
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.runtimeconfig.dev.json
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.dll
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/bin/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.pdb
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.csprojAssemblyReference.cache
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.AssemblyInfoInputs.cache
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.AssemblyInfo.cs
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.csproj.CoreCompileInputs.cache
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.dll
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.pdb
+/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/obj/Release/netcoreapp3.1/linux-x64/MySimpleFunc1.genruntimeconfig.cache

@@ -4,7 +4,7 @@
     "log it to AWS CloudWatch, ",
     "then return the fully capitalized names to the screen"
   ],
-  "profile": "default",
+  "profile": "MES_Lambda_1",
   "region": "us-east-1",
   "configuration": "Release",
   "framework": "netcoreapp3.1",
