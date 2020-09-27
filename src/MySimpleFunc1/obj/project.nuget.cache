@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0hYOJ/r9H/NMiMkFTLkYKGjpp4kHsQBOeHRg/k7tUYHHrKbdEyx+VwfSTHwGXSu+JX7ZjdCuML6emKQSZFTrw==",
+  "success": true,
+  "projectFilePath": "/Users/MES/Projects/AWS_Lambda/C_Sharp_Lambdas/MySimpleFunc1/src/MySimpleFunc1/MySimpleFunc1.csproj",
+  "expectedPackageFiles": [
+    "/Users/MES/.nuget/packages/amazon.lambda.core/1.1.0/amazon.lambda.core.1.1.0.nupkg.sha512",
+    "/Users/MES/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.0.1/amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
