@@ -16,10 +16,6 @@ namespace MySimpleFunc1
 
         public string LastName { get; set; }
 
-
-
-
-
     }
 
 

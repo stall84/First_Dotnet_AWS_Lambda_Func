@@ -18,11 +18,14 @@ namespace MySimpleFunc1.Tests
         {
 
             // Invoke the lambda function and confirm the string was upper cased.
-            var function = new Function();
+            var function = new DisplayNewUser();
             var context = new TestLambdaContext();
-            var upperCase = function.FunctionHandler("hello world", context);
+            var newUser = new NewUser();
+            newUser.FirstName = "Marianne";
+            newUser.LastName = "Zaricor";
+            var upperCase = function.FunctionHandler(newUser, context);
 
-            Assert.Equal("HELLO WORLD", upperCase);
+            Assert.Equal("Marianne Zaricor", upperCase);
         }
     }
 }

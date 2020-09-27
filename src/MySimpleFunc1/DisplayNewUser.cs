@@ -10,18 +10,20 @@ using Amazon.Lambda.Core;
 
 namespace MySimpleFunc1
 {
-    public class Function
+    public class DisplayNewUser
     {
-        
+
         /// <summary>
         /// A simple function that takes a string and does a ToUpper
         /// </summary>
         /// <param name="input"></param>
         /// <param name="context"></param>
         /// <returns></returns>
-        public string FunctionHandler(string input, ILambdaContext context)
+        public string FunctionHandler(NewUser input, ILambdaContext context)
         {
-            return input?.ToUpper();
+            LambdaLogger.Log($"Calling function name: {context.FunctionName}\\n");              // Relays log to AWS CloudWatch if conditions met
+            return $"Welcome: {input.FirstName.ToUpper()} {input.LastName.ToUpper()}";          // returning the upper-cased values of our NewUser model
+
         }
     }
 }

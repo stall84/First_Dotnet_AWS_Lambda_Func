@@ -1,9 +1,8 @@
 {
   "Information": [
-    "This file provides default values for the deployment wizard inside Visual Studio and the AWS Lambda commands added to the .NET Core CLI.",
-    "To learn more about the Lambda commands with the .NET Core CLI execute the following command at the command line in the project root directory.",
-    "dotnet lambda help",
-    "All the command line options for the Lambda command can be specified in this file."
+    "Lambda function intending to receive first and last name input from users",
+    "log it to AWS CloudWatch, ",
+    "then return the fully capitalized names to the screen"
   ],
   "profile": "default",
   "region": "us-east-1",
@@ -12,5 +11,6 @@
   "function-runtime": "dotnetcore3.1",
   "function-memory-size": 256,
   "function-timeout": 30,
-  "function-handler": "MySimpleFunc1::MySimpleFunc1.Function::FunctionHandler"
+  "function-handler": "MySimpleFunc1::MySimpleFunc1.DisplayNewUser::FunctionHandler",
+  "function-role": "myBasicExecutionRole"
 }
