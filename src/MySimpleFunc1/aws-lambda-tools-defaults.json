@@ -4,13 +4,12 @@
     "log it to AWS CloudWatch, ",
     "then return the fully capitalized names to the screen"
   ],
-  "profile": "MES_Lambda_1",
+  "profile": "default",
   "region": "us-east-1",
   "configuration": "Release",
   "framework": "netcoreapp3.1",
   "function-runtime": "dotnetcore3.1",
   "function-memory-size": 256,
   "function-timeout": 30,
-  "function-handler": "MySimpleFunc1::MySimpleFunc1.DisplayNewUser::FunctionHandler",
-  "function-role": "myBasicExecutionRole"
+  "function-handler": "MySimpleFunc1::MySimpleFunc1.DisplayNewUser::FunctionHandler"
 }
